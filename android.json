@@ -1,0 +1,13 @@
+{
+  "platform": "android",
+  "latestVersion": "0.1.1",
+  "latestBuild": 2,
+  "minimumSupportedBuild": 1,
+  "apkUrl": "https://example.invalid/twintwo-build-2.apk",
+  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "releaseNotes": [
+    "TwinTwo yangilanish tizimining real Android testi.",
+    "Versiya va build yangilandi."
+  ],
+  "mandatory": false
+}
