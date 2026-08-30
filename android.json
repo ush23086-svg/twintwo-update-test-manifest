@@ -1,13 +1,15 @@
 {
   "platform": "android",
-  "latestVersion": "0.1.1",
-  "latestBuild": 2,
+  "latestVersion": "0.1.2",
+  "latestBuild": 3,
   "minimumSupportedBuild": 1,
-  "apkUrl": "https://expo.dev/artifacts/eas/85RzwHXYYYCd3boYB_IcHsvKNPgXgWshALIKScDYzDs.apk",
-  "sha256": "bccccdf69cd02758628f998c60fe1800f80b10afc6d7670d6d3ef6034288ccf3",
+  "apkUrl": "https://expo.dev/artifacts/eas/8N033YUr64uxPbPMyD0S6Kyl57PNNkVbYzXau9t0S_g.apk",
+  "sha256": "49d3a3dd84e7b8515196d5279e0a377ff19d631cacd2e7ecc6cbacf23dd9821a",
   "releaseNotes": [
-    "TwinTwo yangilanish tizimining real Android testi.",
-    "Versiya va build yangilandi."
+    "TwinTwo UI 2.0",
+    "Yangi Asosiy va Food dizayni",
+    "Restaurant va mahsulot sahifalari yangilandi",
+    "Paxtachi uchun yangi premium interfeys"
   ],
   "mandatory": false
 }
