@@ -3,8 +3,8 @@
   "latestVersion": "0.1.1",
   "latestBuild": 2,
   "minimumSupportedBuild": 1,
-  "apkUrl": "https://example.invalid/twintwo-build-2.apk",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "apkUrl": "https://expo.dev/artifacts/eas/85RzwHXYYYCd3boYB_IcHsvKNPgXgWshALIKScDYzDs.apk",
+  "sha256": "bccccdf69cd02758628f998c60fe1800f80b10afc6d7670d6d3ef6034288ccf3",
   "releaseNotes": [
     "TwinTwo yangilanish tizimining real Android testi.",
     "Versiya va build yangilandi."
