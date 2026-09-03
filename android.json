@@ -1,14 +1,16 @@
 {
   "platform": "android",
-  "latestVersion": "0.1.4",
-  "latestBuild": 5,
+  "latestVersion": "0.1.5",
+  "latestBuild": 6,
   "minimumSupportedBuild": 1,
-  "apkUrl": "https://expo.dev/artifacts/eas/8aClITsxvu4xbtq-osEsjJq8_0LAIxuxiB-E2OcKUGk.apk",
-  "sha256": "a30e506d13b862520f5d6425c49536f534546330cf3563c1bb39084b40ce05c5",
+  "apkUrl": "https://expo.dev/artifacts/eas/AzJ8viGYq1PxiJkVIsLvAor-oM3r31Pb6vEDfoG6Aok.apk",
+  "sha256": "be0ad79346c78831da35270e5513615627a21c6ca13527264b6e6424befda042",
   "releaseNotes": [
-    "TwinTwo 0.1.4",
-    "Food xizmatiga ulanish yangilandi",
-    "Joriy ofis Wi-Fi tarmog‘i uchun preview API manzili yangilandi"
+    "TwinTwo 0.1.5",
+    "Uy va ofis tarmoqlari avtomatik aniqlanadi",
+    "Taxi, Yotoq joy, Stol bron va Eski-tuski demo bo‘limlari ochildi",
+    "Food katalogiga yangi demo restoranlar qo‘shildi",
+    "Interfeysdagi rasm va matn joylashuvi yaxshilandi"
   ],
   "mandatory": false
 }
